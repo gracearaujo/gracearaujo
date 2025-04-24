@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Grace.<br><br>- 🔭 I'm working as a developer.<br>- 📚 I'm currently learning Data Analysis and Java.</p>
+<p align="left">I'm Grace.<br><br>- 🖥️ I'm working as a developer.<br>- 🧐 I'm currently learning Data Analysis and Java.</p>
 
 ###
 
